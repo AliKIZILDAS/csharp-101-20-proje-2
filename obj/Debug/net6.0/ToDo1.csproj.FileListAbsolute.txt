@@ -1,0 +1,15 @@
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\ToDo1.csproj.AssemblyReference.cache
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\ToDo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\ToDo1.AssemblyInfoInputs.cache
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\ToDo1.AssemblyInfo.cs
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\ToDo1.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\bin\Debug\net6.0\ToDo1.exe
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\bin\Debug\net6.0\ToDo1.deps.json
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\bin\Debug\net6.0\ToDo1.runtimeconfig.json
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\bin\Debug\net6.0\ToDo1.dll
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\bin\Debug\net6.0\ToDo1.pdb
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\ToDo1.dll
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\refint\ToDo1.dll
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\ToDo1.pdb
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\ToDo1.genruntimeconfig.cache
+C:\Users\Ali\Documents\Patika\Uygulamalar\ToDo1\obj\Debug\net6.0\ref\ToDo1.dll
